@@ -1,0 +1,8 @@
+C:\Project\ArkanoidGame\ArkanoidGame\bin\Debug\ArkanoidGame.exe.config
+C:\Project\ArkanoidGame\ArkanoidGame\obj\Debug\ArkanoidGame.Properties.Resources.resources
+C:\Project\ArkanoidGame\ArkanoidGame\obj\Debug\ArkanoidGame.csproj.GenerateResource.Cache
+C:\Project\ArkanoidGame\ArkanoidGame\bin\Debug\ArkanoidGame.exe
+C:\Project\ArkanoidGame\ArkanoidGame\bin\Debug\ArkanoidGame.pdb
+C:\Project\ArkanoidGame\ArkanoidGame\obj\Debug\ArkanoidGame.exe
+C:\Project\ArkanoidGame\ArkanoidGame\obj\Debug\ArkanoidGame.pdb
+C:\Project\ArkanoidGame\ArkanoidGame\obj\Debug\ArkanoidGame.Arkanoid.resources
